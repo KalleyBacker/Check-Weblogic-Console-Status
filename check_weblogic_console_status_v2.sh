@@ -1,5 +1,5 @@
 #!/bin/bash
-# @author:       Juan Carlos Morla Reyes
+# @author:       Juan Morla
 # Version:       2.0
 # Descripción:
 #   Este script verifica el estado de las consolas de administración de Oracle
@@ -11,8 +11,8 @@
 #     - WebLogic Server 12.1.1.3.0
 #     - WebLogic Server 12.2.1.4.0
 #     - WebLogic Server 14.1.1.0.0
-#			- WebLogic Server	14.1.2.0.0 -> Si el .war WebLogic-Remote-Console no esta 
-#																			desplegado las url arrojaran el codigo 300-399 y 404
+#	  - WebLogic Server	14.1.2.0.0 -> Si el .war WebLogic-Remote-Console no esta 
+#						              desplegado las url arrojaran el codigo 300-399 y 404
 #
 # Uso:
 #   ./check_weblogic_console_status_v2.sh
